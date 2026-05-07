@@ -1,29 +1,27 @@
 @startuml
 
-skinparam ClassAttributeIconSize 0
-
-    class Cinema {
+class Cinema {
         nome
         capacidadeMaxima
         cidade
         estado
         enderecoCompleto
-    }
+}
 
-    class Filme {
+class Filme {
         titulo
         duracaoMinutos
         genero
         statusEmCartaz
-    }
+}
 
-    class Sessao {
+class Sessao {
         data
         horario
         publicoRegistrado
     }
 
-    class Ator {
+class Ator {
         nome
         biografia
     }
