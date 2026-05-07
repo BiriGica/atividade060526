@@ -26,11 +26,12 @@ else (Registrar Público)
     goto input_publico
   else (Não)
     :Marcar registro;
-  endif
+    endif
 
 endif
 
 stop
 @enduml
+
 
 <img width="528" height="440" alt="image" src="https://github.com/user-attachments/assets/dc22636b-4f9d-4758-a178-654bc4ffe7a5" />
