@@ -19,7 +19,7 @@ rectangle "Redes de Cinema" {
 
 }
 @enduml
+<img width="725" height="435" alt="image" src="https://github.com/user-attachments/assets/0486215e-7a06-4f25-bedb-4e94f3033070" />
 
 
 
-![alt text](image.png)
